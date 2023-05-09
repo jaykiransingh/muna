@@ -37,3 +37,6 @@ tree
 mv demoproject demoprojects
 ls
 tree
+ls
+git push origin master
+git config -l
